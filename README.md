@@ -60,3 +60,13 @@ Example overflow
 
 User → React Frontend → Flask API → Random Forest Model → MongoDB → Response → User
 
+Backend:
+cd Final\Final
+& venv\Scripts\Activate.ps1
+python rf.py
+
+Frontend:
+cd Final\Final\complaint
+npm start
+
+
